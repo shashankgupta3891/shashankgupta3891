@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shashankgupta3891
 - 👀 I’m interested in UI development in Flutter and ReactJs
-- 🌱 I’m currently learning Flutter Best practices and exploring React Js
+- 🌱 I’m currently learning Flutter Best practices and exploring Native Android
 - 💞️ I’m looking to collaborate on Awesome Frontend Projects
 - 📫 You can reach me on Linkedin.
 
