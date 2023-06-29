@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shashank Gupta</h1>
 <h3 align="center">I'm a passionate and experienced mobile app developer with a strong focus on user experience ✨ and performance 🚀</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" style="border-radius: 10px;">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shashankgupta3891&label=Profile%20views&color=0e75b6&style=flat" alt="shashankgupta3891" /> </p>
 
