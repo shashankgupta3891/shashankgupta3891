@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" width="12000" src="https://github.com/shashankgupta3891/shashankgupta3891/blob/main/cover-image.png" style="border-radius: 10px;">
+<img align="center" alt="Coding" width="12000" src="https://github.com/shashankgupta3891/shashankgupta3891/blob/main/git-cover-image.png" style="border-radius: 10px;">
 
 <h1 align="center">Hi 👋, I'm Shashank Gupta</h1>
 <h3 align="center">I'm a passionate and experienced mobile app developer with a strong focus on user experience ✨ and performance 🚀</h3>
